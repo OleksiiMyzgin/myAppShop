@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Header = ({tagline}) => (
+const Header = ({ tagline }) => (
   <header className="top">
     <h1>
       Catch
