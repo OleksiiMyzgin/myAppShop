@@ -10,7 +10,7 @@ import base from '../base';
 
 class App extends React.Component {
   static propTypes = {
-    match: PropTypes.object,
+    match: PropTypes.object.isRequired,
   };
 
   state = {
@@ -120,6 +120,7 @@ class App extends React.Component {
           deleteFish={this.deleteFish}
           loadSampleFishes={this.loadSampleFishes}
           fishes={this.state.fishes}
+          storeId={this.props.match.params.storeId}
         />
       </div>
     );
