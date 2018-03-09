@@ -28,25 +28,25 @@ class AddFishForm extends React.Component {
   render() {
     return (
       <form className="fish-edit" onSubmit={this.createFish}>
-        <input type="text" name="name" ref={this.nameRef} placeholder="Имя" />
+        <input type="text" name="name" ref={this.nameRef} placeholder="Name" />
         <input
           type="text"
           name="price"
           ref={this.priceRef}
-          placeholder="Цена"
+          placeholder="Price"
         />
         <select name="status" ref={this.statusRef}>
-          <option value="available">Свежая!</option>
-          <option value="unavailable">Распродано!</option>
+          <option value="available">Fresh!</option>
+          <option value="unavailable">Sold Out!</option>
         </select>
-        <textarea name="desc" ref={this.descRef} placeholder="Описание" />
+        <textarea name="desc" ref={this.descRef} placeholder="description" />
         <input
           type="text"
           name="image"
           ref={this.imageRef}
-          placeholder="Картинка"
+          placeholder="image"
         />
-        <button type="submit">+Добавить рыбу</button>
+        <button type="submit">+Add Item</button>
       </form>
     );
   }
