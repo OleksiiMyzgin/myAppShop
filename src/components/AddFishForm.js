@@ -15,11 +15,11 @@ class AddFishForm extends React.Component {
   createFish = e => {
     e.preventDefault();
     const fish = {
-      name: this.nameRef.value.value,
-      price: Number(this.priceRef.value.value),
-      status: this.statusRef.value.value,
-      desc: this.descRef.value.value,
-      image: this.imageRef.value.value,
+      name: this.nameRef.current.value,
+      price: Number(this.priceRef.current.value),
+      status: this.statusRef.current.value,
+      desc: this.descRef.current.value,
+      image: this.imageRef.current.value,
     };
     this.props.addFish(fish);
     // refresh the form
