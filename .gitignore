@@ -2,4 +2,3 @@ node_modules
 security-rules.json
 .eslintrc
 base.js
-build
