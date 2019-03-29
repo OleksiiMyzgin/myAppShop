@@ -13,8 +13,8 @@
 ### Installation
 
 1. `cd` to go into the project root
-2. `npm` to install the website's npm dependencies
+2. `npm i` to install the website's npm dependencies
 
 ### Running locally
 
-1. `npm dev` to start the development server. It will open automatically on http://localhost:3000/
+1. `npm run dev` to start the development server. It will open automatically on http://localhost:3000/
