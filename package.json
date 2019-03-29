@@ -2,7 +2,7 @@
   "name": "my-app-shop",
   "version": "0.0.3",
   "private": true,
-  "homepage": "https://github.com/OleksiiMyzgin/myAppShop",
+  "homepage": ".",
   "devDependencies": {
     "concurrently": "4.1.0",
     "eslint-plugin-import": "^2.16.0",
