@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "73a576a8254aeafebcdc66fe9fd41ac8",
-    "url": "/OleksiiMyzgin/myAppShop/static/media/blanch_caps_inline-webfont.73a576a8.eot"
+    "revision": "cf798e30eda73d84b25c4ae233fe5e21",
+    "url": "/OleksiiMyzgin/myAppShop/static/media/haymaker-webfont.cf798e30.svg"
   },
   {
-    "revision": "96c35cffc0eb23695129",
-    "url": "/OleksiiMyzgin/myAppShop/static/css/main.133140bc.chunk.css"
+    "revision": "7065843f713ffa654e7b",
+    "url": "/OleksiiMyzgin/myAppShop/static/css/main.c01580df.chunk.css"
   },
   {
-    "revision": "a17a419174fbcf1266aa",
-    "url": "/OleksiiMyzgin/myAppShop/static/js/1.a17a4191.chunk.js"
+    "revision": "8d99c1cde14f96089c7c",
+    "url": "/OleksiiMyzgin/myAppShop/static/js/runtime~main.7a4281f2.js"
   },
   {
-    "revision": "a267c6ac4a6fcf33b18e",
-    "url": "/OleksiiMyzgin/myAppShop/static/js/runtime~main.a267c6ac.js"
+    "revision": "4209b8e1fb0d8ffc6129",
+    "url": "/OleksiiMyzgin/myAppShop/static/js/2.95441d9d.chunk.js"
   },
   {
     "revision": "4c3fb584d3f63821357c8a9cff97f360",
@@ -28,16 +28,16 @@ self.__precacheManifest = [
     "url": "/OleksiiMyzgin/myAppShop/static/media/anchor.d2f8799a.svg"
   },
   {
-    "revision": "96c35cffc0eb23695129",
-    "url": "/OleksiiMyzgin/myAppShop/static/js/main.96c35cff.chunk.js"
-  },
-  {
-    "revision": "cf798e30eda73d84b25c4ae233fe5e21",
-    "url": "/OleksiiMyzgin/myAppShop/static/media/haymaker-webfont.cf798e30.svg"
+    "revision": "7065843f713ffa654e7b",
+    "url": "/OleksiiMyzgin/myAppShop/static/js/main.28113015.chunk.js"
   },
   {
     "revision": "e9535f20ca175cc3fdfe2816f7c47168",
     "url": "/OleksiiMyzgin/myAppShop/static/media/haymaker-webfont.e9535f20.ttf"
+  },
+  {
+    "revision": "73a576a8254aeafebcdc66fe9fd41ac8",
+    "url": "/OleksiiMyzgin/myAppShop/static/media/blanch_caps_inline-webfont.73a576a8.eot"
   },
   {
     "revision": "1461f8e9d2084c70c00830348efe1766",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/OleksiiMyzgin/myAppShop/static/media/blanch_caps_inline-webfont.7bbffda6.svg"
   },
   {
-    "revision": "09714218a945a7916f964a017e216623",
+    "revision": "954644e4a4d76190d998a2c0aa8ab3c8",
     "url": "/OleksiiMyzgin/myAppShop/index.html"
   }
 ];

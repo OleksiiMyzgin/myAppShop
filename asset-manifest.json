@@ -1,14 +1,14 @@
 {
-  "main.css": "/OleksiiMyzgin/myAppShop/static/css/main.133140bc.chunk.css",
-  "main.js": "/OleksiiMyzgin/myAppShop/static/js/main.96c35cff.chunk.js",
-  "main.js.map": "/OleksiiMyzgin/myAppShop/static/js/main.96c35cff.chunk.js.map",
-  "static/js/1.a17a4191.chunk.js": "/OleksiiMyzgin/myAppShop/static/js/1.a17a4191.chunk.js",
-  "static/js/1.a17a4191.chunk.js.map": "/OleksiiMyzgin/myAppShop/static/js/1.a17a4191.chunk.js.map",
-  "runtime~main.js": "/OleksiiMyzgin/myAppShop/static/js/runtime~main.a267c6ac.js",
-  "runtime~main.js.map": "/OleksiiMyzgin/myAppShop/static/js/runtime~main.a267c6ac.js.map",
-  "static/media/style.css": "/OleksiiMyzgin/myAppShop/static/media/haymaker-webfont.751e5627.woff",
-  "static/css/main.133140bc.chunk.css.map": "/OleksiiMyzgin/myAppShop/static/css/main.133140bc.chunk.css.map",
+  "main.css": "/OleksiiMyzgin/myAppShop/static/css/main.c01580df.chunk.css",
+  "main.js": "/OleksiiMyzgin/myAppShop/static/js/main.28113015.chunk.js",
+  "main.js.map": "/OleksiiMyzgin/myAppShop/static/js/main.28113015.chunk.js.map",
+  "runtime~main.js": "/OleksiiMyzgin/myAppShop/static/js/runtime~main.7a4281f2.js",
+  "runtime~main.js.map": "/OleksiiMyzgin/myAppShop/static/js/runtime~main.7a4281f2.js.map",
+  "static/js/2.95441d9d.chunk.js": "/OleksiiMyzgin/myAppShop/static/js/2.95441d9d.chunk.js",
+  "static/js/2.95441d9d.chunk.js.map": "/OleksiiMyzgin/myAppShop/static/js/2.95441d9d.chunk.js.map",
   "index.html": "/OleksiiMyzgin/myAppShop/index.html",
-  "precache-manifest.0ddb0509fc66d50f7599a8371f6c9d06.js": "/OleksiiMyzgin/myAppShop/precache-manifest.0ddb0509fc66d50f7599a8371f6c9d06.js",
-  "service-worker.js": "/OleksiiMyzgin/myAppShop/service-worker.js"
+  "precache-manifest.84d48f0a321d20ceff9b8dd681c4cc2f.js": "/OleksiiMyzgin/myAppShop/precache-manifest.84d48f0a321d20ceff9b8dd681c4cc2f.js",
+  "service-worker.js": "/OleksiiMyzgin/myAppShop/service-worker.js",
+  "static/css/main.c01580df.chunk.css.map": "/OleksiiMyzgin/myAppShop/static/css/main.c01580df.chunk.css.map",
+  "static/media/style.css": "/OleksiiMyzgin/myAppShop/static/media/haymaker-webfont.e9535f20.ttf"
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/OleksiiMyzgin/myAppShop/precache-manifest.0ddb0509fc66d50f7599a8371f6c9d06.js"
+  "/OleksiiMyzgin/myAppShop/precache-manifest.84d48f0a321d20ceff9b8dd681c4cc2f.js"
 );
 
 workbox.clientsClaim();
