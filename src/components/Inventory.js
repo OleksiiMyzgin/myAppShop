@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import firebase from 'firebase';
 import AddFishForm from './AddFishForm';
 import EditFishForm from './EditFishForm';
-import Login from './Login';
+// import Login from './Login';
 import base, { firebaseApp } from '../base';
 
 class Inventory extends React.Component {
@@ -67,9 +67,9 @@ class Inventory extends React.Component {
     const logout = <button onClick={this.logout}>Log Out!</button>;
 
     // 1. Check if they are loged In
-    if (!this.state.uid) {
-      return <Login authenticate={this.authenticate} />;
-    }
+    // if (!this.state.uid) {
+    //   return <Login authenticate={this.authenticate} />;
+    // }
 
     // 2. Check if they are not the owner of the store
     if (this.state.uid !== this.state.owner) {
